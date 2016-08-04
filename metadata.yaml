@@ -1,0 +1,34 @@
+_repo: Michael-Brother-of-Jerry_1730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: Very early in my life, possibly because of the insatiable curiosity that
+  was born in me, I came to dislike the performances of trained animals. It was my
+  curiosity that spoiled for me this form of amusement, for I was led to seek behind
+  the performance in order to learn how the performance was achieved. And what I found
+  behind the brave show and glitter of performance was not nice. It was a body of
+  cruelty so horrible that I am confident no normal person exists who, once aware
+  of it, could ever enjoy looking on at any trained-animal turn. Written from a dog's
+  perspective, the book showcases the intelligence and bravery of our canine companions.
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: Michael, Brother of Jerry
+url: http://www.gutenberg.org/ebooks/1730
