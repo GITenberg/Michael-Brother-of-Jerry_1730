@@ -1,5 +1,8 @@
 _repo: Michael-Brother-of-Jerry_1730
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -17,6 +20,8 @@ description: Very early in my life, possibly because of the insatiable curiosity
   cruelty so horrible that I am confident no normal person exists who, once aware
   of it, could ever enjoy looking on at any trained-animal turn. Written from a dog's
   perspective, the book showcases the intelligence and bravery of our canine companions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1730#Michael-Brother-of-Jerry
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
 identifiers:
